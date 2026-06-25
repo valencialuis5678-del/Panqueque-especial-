@@ -39,7 +39,6 @@ document.addEventListener('DOMContentLoaded', function() {
         observer.observe(card);
     });
 
-    // Confirmar carga
     console.log('Sitio web cargado correctamente ✅');
 });
 
